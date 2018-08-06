@@ -1,0 +1,20 @@
+{
+  "name": "bank-node-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js(Express.js)+TypeScript bank(fintech) API example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-tark/bank-node-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-tark/bank-node-api/issues"
+  },
+  "homepage": "https://github.com/alex-tark/bank-node-api#readme"
+}
